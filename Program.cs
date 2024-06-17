@@ -1,5 +1,6 @@
 using Microsoft.EntityFrameworkCore;
 using Reddit;
+using Reddit.Data;
 using Reddit.Mapper;
 using System.Text.Json.Serialization;
 
